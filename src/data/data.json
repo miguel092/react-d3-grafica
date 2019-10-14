@@ -1,0 +1,50 @@
+[
+   {
+    "title": "REVENUE",
+    "total": "200.000€",
+    "values": [{
+        "label": "Smartphone",
+        "value": 40,
+        "equivalent": "40.000"
+    },
+    {
+        "label": "Tablet",
+        "value": 60,
+        "equivalent": "120.000"
+    }],
+    "colorLbl2": "#A5C872",
+    "colorLbl1": "#3B5723"   
+   },
+   {
+    "title": "IMPRESIONS",
+    "total": "50.000.000",
+    "values": [{
+        "label": "Smartphone",
+        "value": 60, 
+        "equivalent": "30.000.000"
+    },
+    {
+        "label": "Tablet",
+        "value": 40,
+        "equivalent": "20.000.000"
+    }],
+    "colorLbl2": "#81BEC7",
+    "colorLbl1": "#344552"
+   },
+   {
+    "title": "VISITS",
+    "total": "600.000.000",
+    "values": [{
+        "label": "Smartphone",
+        "value": 20,
+        "equivalent": "120.000.000"
+    },
+    {
+        "label": "Tablet",
+        "value": 80,
+        "equivalent": "480.000.000"
+    }],
+    "colorLbl1": "#965627",
+    "colorLbl2": "#D3C863"   
+   }
+]
